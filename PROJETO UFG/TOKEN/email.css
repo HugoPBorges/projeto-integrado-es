@@ -1,0 +1,136 @@
+body {
+    margin: 0;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+
+    a {
+        color: #0216C5;
+    }
+
+   .login {
+position: relative;
+text-align: center;
+top: -10px;
+font-family: "League Spartan", Helvetica;
+font-size: 15px;
+font-weight: 600;
+line-height: 20px;
+
+
+}
+  input{
+    color: #0216C5;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 95px;
+    font-size: 45px;
+    font-style: Bold;
+    font-weight: 600;
+    position: relative;
+    top: -50px;
+    left: 75px;
+    width: 520px;
+    height: 98px;
+    border-radius: 30px;
+    padding-left: 80px;
+    z-index: 0;
+   
+}
+.underline1 {
+    
+    position: relative;
+    width: 80px;
+    height: 1px;
+    background-color: #0216C5;
+    z-index: 2;
+    top: 95px;
+    left: 133px;
+   
+}
+.underline2 {
+    position: relative;
+    width: 80px;
+    height: 1px;
+    background-color: #0216C5;
+    z-index: 2;
+    top: 78px;
+    left: 261px;
+  
+}
+.underline3 {
+    
+    position: relative;
+    width: 80px;
+    height: 1px;
+    background-color: #0216C5;
+    z-index: 2;
+    top: 61px;
+    left: 389px;
+    
+}
+.underline4 {
+    
+    position: relative;
+    width: 80px;
+    height: 1px;
+    background-color: #0216C5;
+    z-index: 2;
+    top: 44px;
+    left: 517px;
+   
+}
+
+   .sobrevidas {
+    position: relative;
+    width: 530px;
+    height: 142px;
+    top: -370px;
+    left: 110px;
+    font-family: "Bitter-Bold", Helvetica;
+    font-weight: 700;
+    color: transparent;
+    font-size: 60px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+   .Esqueceu {
+    position: relative;
+    text-align: center;
+    color: white;
+    font-family: "League Spartan-Bold", Helvetica;
+    font-size: 40px;
+ 
+}
+   .divmaior {
+    background-color: #9BCCFA;
+    width: 744px;
+    height: 1133px;
+    border-radius: 30px;
+}
+  .LOGO {
+    position: relative;
+    top: 171px;
+    left: 183px;
+    
+
+}
+
+.botao {
+    position: relative;
+    top: -20px;
+    left: 211px;
+    font-family: "Source Sans Pro-Black", Helvetica;
+    font-weight: 900;
+    color: #ffffff;
+    font-size: 25px;
+    letter-spacing: 0;
+    background-color: #0216C5;
+    border-radius: 27px;
+    width: 345px;
+    height: 65px;
+}
+}
