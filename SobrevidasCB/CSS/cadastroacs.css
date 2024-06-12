@@ -17,7 +17,6 @@ body {
  }
 
  .titulo {
-
      text-align: center;
      font-size: 40px;
      position: absolute;
@@ -467,9 +466,9 @@ body {
  }
 
  .EnvButton {
-     position: absolute;
-     top: 900px;
-     margin-left: 200px;
+     position: relative;
+     top: 1029px;
+     margin-left: 30px;
      padding: 10px;
      padding-left: 50px;
      padding-right: 50px;
@@ -501,10 +500,7 @@ body {
 
  }
 
- .EnvButton:hover {
-     box-shadow: inset 400px 0 0 #0008;
- }
-
+ 
 
 
 

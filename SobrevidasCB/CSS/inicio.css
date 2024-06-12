@@ -5,8 +5,8 @@ body {
     flex-direction: row;
     justify-content: center;
     width: 100%;
-
-    
+    background: linear-gradient(45deg, #0216C5, #5A8DEE, #00FFCC);
+     
     
        .sobrevidas {
         position: relative;

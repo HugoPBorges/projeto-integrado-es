@@ -1,0 +1,81 @@
+body {
+    background: linear-gradient(45deg, #0216C5, #5A8DEE, #00FFCC);
+    margin: 0;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+
+.divmaior {
+    
+    background-image: url(../Imagens/fundoquadrado.png);
+    position: relative;
+    background-color: #9BCCFA;
+    width: 744px;
+    height: 1133px;
+    border-radius: 50px;
+}
+
+.topo{
+    
+    left: 20px;
+    position: relative;
+    top: -100px;
+    text-align: center;
+    color: white;
+    font-family: "League Spartan-Bold", Helvetica;
+    font-size: 43px;
+    font-style: bold;
+    font-weight: 900;
+    line-height: 26px;
+    margin-top: 70px;
+    
+}
+
+.seta{
+    position: relative;
+    top: 50px;
+    left: 55px;
+
+}
+
+.fundo {
+    position: relative;
+    border-radius: 50px;
+    width: 744px;
+    min-height: 935px;
+    background-color: rgb(255, 255, 255);
+    top: -70px;
+
+
+}
+
+.texto {
+    position: relative;
+    top: -960px;
+    left: 60px;
+    color: #03314B;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-style: bold;
+    font-weight: 600;
+    line-height: 26px
+}
+
+input {
+    position: absolute;
+    top: 290px;
+    left: 60px;
+    width: 610px;
+    height: 55px;
+    border-radius: 8px;
+    padding-left: 20px;
+    font-size: 15px;
+    
+}
+
+
+
